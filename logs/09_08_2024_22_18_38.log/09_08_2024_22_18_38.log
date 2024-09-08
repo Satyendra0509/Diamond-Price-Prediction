@@ -1,0 +1,13 @@
+[ 2024-09-08 22:18:42,105 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-08 22:18:42,114 ] 97 werkzeug - INFO -  * Debugger PIN: 104-299-230
+[ 2024-09-08 22:19:12,901 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:19:12] "GET / HTTP/1.1" 200 -
+[ 2024-09-08 22:19:14,275 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:19:14] "GET /predict HTTP/1.1" 200 -
+[ 2024-09-08 22:19:14,320 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:19:14] "[33mGET /down-arrow.png HTTP/1.1[0m" 404 -
+[ 2024-09-08 22:20:20,915 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:20:20] "GET /predict HTTP/1.1" 200 -
+[ 2024-09-08 22:20:20,962 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:20:20] "[33mGET /down-arrow.png HTTP/1.1[0m" 404 -
+[ 2024-09-08 22:20:32,899 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:20:32] "GET / HTTP/1.1" 200 -
+[ 2024-09-08 22:20:55,941 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:20:55] "GET / HTTP/1.1" 200 -
+[ 2024-09-08 22:20:57,622 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:20:57] "GET /predict HTTP/1.1" 200 -
+[ 2024-09-08 22:20:57,670 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:20:57] "[33mGET /down-arrow.png HTTP/1.1[0m" 404 -
+[ 2024-09-08 22:21:18,544 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:21:18] "GET /predict HTTP/1.1" 200 -
+[ 2024-09-08 22:21:18,580 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 22:21:18] "[33mGET /down-arrow.png HTTP/1.1[0m" 404 -

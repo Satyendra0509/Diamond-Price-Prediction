@@ -1,0 +1,5 @@
+[ 2024-09-08 23:38:53,698 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-08 23:38:53,699 ] 97 werkzeug - INFO -  * Debugger PIN: 104-299-230
+[ 2024-09-08 23:39:01,463 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 23:39:01] "GET / HTTP/1.1" 200 -
+[ 2024-09-08 23:39:02,770 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 23:39:02] "GET /predict HTTP/1.1" 200 -
+[ 2024-09-08 23:39:02,792 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Sep/2024 23:39:02] "[33mGET /down-arrow.png HTTP/1.1[0m" 404 -
